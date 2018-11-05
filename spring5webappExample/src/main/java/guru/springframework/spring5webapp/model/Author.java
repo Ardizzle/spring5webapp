@@ -1,6 +1,6 @@
 package guru.springframework.spring5webapp.model;
 
-import java.awt.print.Book;
+import guru.springframework.spring5webapp.model.Book;
 import java.util.HashSet;
 import java.util.Set;
 
